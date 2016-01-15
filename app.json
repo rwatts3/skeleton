@@ -14,5 +14,5 @@
   "env": {
     "NODE_ENV": "production"
   },
-  "addons": ["mongolab", "mandrill", "cloudinary", "papertrail"]
+  "addons": ["mongolab", "cloudinary", "papertrail"]
 }
